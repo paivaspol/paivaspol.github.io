@@ -3,4 +3,4 @@ layout: default
 title: Projects
 ---
 
-projects
+projects i worked on
