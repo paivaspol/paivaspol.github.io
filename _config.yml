@@ -1,3 +1,21 @@
-name: Your New Jekyll Site
+name: Vaspol Ruamviboonsuk
+author: Vaspol Ruamviboonsuk
+twitter: '@paivaspol'
+github: 'paivaspol'
+
+url: http://paivaspol.github.io
+base: ''
+
 markdown: redcarpet
 pygments: true
+
+navigation:
+  - title: home
+    link: /
+  - title: projects
+    link: /projects.html
+  - title: publications
+    link: /publications.html
+  - title: contact
+    link: /contact.html
+    
