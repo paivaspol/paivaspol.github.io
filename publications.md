@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-Listed below are the major publications that have been published. You can also view my record of publications [here on dlbp](http://www.informatik.uni-trier.de/~ley/pers/hd/r/Ruamviboonsuk:Vaspol.html).
+Listed below are the major publications that have been published. You can also view my record of publications [here on dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/r/Ruamviboonsuk:Vaspol.html).
 
 ### Conference Paper
 
