@@ -6,7 +6,7 @@ github: 'paivaspol'
 url: http://paivaspol.github.io
 base: ''
 
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 
 navigation:
