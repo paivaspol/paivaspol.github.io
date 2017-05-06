@@ -3,4 +3,5 @@ layout: default
 title: Projects
 ---
 
-***Coming soon...***
+***Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution***
+Vroom description
