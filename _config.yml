@@ -8,6 +8,7 @@ base: ''
 
 markdown: kramdown
 pygments: true
+highlighter: rouge
 
 navigation:
   - title: home
