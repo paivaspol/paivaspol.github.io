@@ -7,6 +7,10 @@ Listed below are the major publications that have been published. You can also v
 
 ### Conference Paper
 
+#### 2017
+
+* **Vaspol Ruamviboonsuk**, Ravi Netravali, Muhammed Uluyol, Harsha V. Madhyastha: Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution. SIGCOMM 2017 __To Appear__
+
 #### 2014
 
 * Daniel Halperin, Victor Teixeira de Almeida, Lee Lee Choo, Shumo Chu, Paraschos Koutris, Dominik Moritz, Jennifer Ortiz, **Vaspol Ruamviboonsuk**, Jingjing Wang, Andrew Whitaker, Shengliang Xu, Magdalena Balazinska, Bill Howe, Dan Suciu: Demonstration of the Myria big data management service. SIGMOD Conference 2014: 881-884
