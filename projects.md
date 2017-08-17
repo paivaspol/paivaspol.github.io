@@ -4,7 +4,6 @@ title: Projects
 ---
 
 ***Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution***
-
 The existing slowness of the web on mobile devices frustrates users
 and hurts the revenue of website providers. Prior studies have attributed
 high page load times to dependencies within the page load
