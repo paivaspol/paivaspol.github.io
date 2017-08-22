@@ -1,6 +1,5 @@
 name: Vaspol Ruamviboonsuk
 author: Vaspol Ruamviboonsuk
-twitter: '@paivaspol'
 github: 'paivaspol'
 
 url: http://paivaspol.github.io
@@ -12,11 +11,11 @@ highlighter: rouge
 
 navigation:
   - title: home
-    link: /
+    link: index.html
   - title: projects
-    link: /projects.html
+    link: projects.html
   - title: publications
-    link: /publications.html
+    link: publications.html
   - title: contact
-    link: /contact.html
+    link: contact.html
     
