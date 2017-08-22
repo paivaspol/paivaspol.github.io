@@ -5,24 +5,13 @@ title: Projects
 
 ***Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution***
 
-The existing slowness of the web on mobile devices frustrates users
-and hurts the revenue of website providers. Prior studies have attributed
-high page load times to dependencies within the page load
-process: network latency in fetching a resource delays its processing,
-which in turn delays when dependent resources can be discovered
-and fetched.
-
-To securely address the impact that these dependencies have on
-page load times, we present VROOM, a rethink of how clients and
-servers interact to facilitate web page loads. Unlike existing solutions,
-which require clients to either trust proxy servers or discover
-all the resources on any page themselves, VROOM’s key characteristics
-are that clients fetch every resource directly from the domain
-that hosts it but web servers aid clients in discovering resources.
-Input from web servers decouples a client’s processing of resources
-from its fetching of resources, thereby enabling independent use of
-both the CPU and the network. As a result, VROOM reduces the
-median page load time by more than 5 seconds across popular News
-and Sports sites. To enable these benefits, our contributions lie in
-making web servers capable of accurately aiding clients in resource
-discovery and judiciously scheduling a client’s receipt of resources.
+Accessing web pages from mobile devices over a mobile connection is slow.
+Prior studies attributed high page load times to dependencies within the 
+page load process: netwowkr latency in fetching a resource delays its processing,
+which in turn delays when other resources can be discovered and fetched.
+Vroom is a rethink of the process of loading a web page that securely address the
+inefficiency of the page load while preserving the end-to-end nature of the web.
+Vroom does this by decoupling resource discovery from parsing and executing.
+This allows the CPU and the network to be used independently. As a result, 
+VROOM reduces the median page load time by more than 5 seconds 
+across popular News and Sports sites. 
