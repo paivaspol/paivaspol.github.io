@@ -5,7 +5,11 @@ title: Projects
 
 ***Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution***
 
-[Slides](https://docs.google.com/presentation/d/1AKqUnORLFiN3zoKrSxb2jSRHs-qVJiJG7YMuZw6rfFk/edit?usp=sharing)
+[Slides][]
+[Paper][]
+
+[Slides]: https://docs.google.com/presentation/d/1AKqUnORLFiN3zoKrSxb2jSRHs-qVJiJG7YMuZw6rfFk/edit?usp=sharing
+[Paper]: pdfs/vroom-sigcomm-17.pdf
 
 Accessing web pages from mobile devices over a mobile connection is slow.
 Prior studies attributed high page load times to dependencies within the 
