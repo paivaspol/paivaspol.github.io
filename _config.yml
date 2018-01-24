@@ -6,7 +6,6 @@ url: http://paivaspol.github.io
 base: ''
 
 markdown: kramdown
-pygments: true
 highlighter: rouge
 
 navigation:
